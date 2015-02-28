@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension>
+	<title>SyntaxHighlighter BBCode extension</title>
+	<hook>BBCode_CodeOutput</hook>
+	<filename>SyntaxHighlighter</filename>
+	<version>1.0</version>
+	<description>Alex Gorbatchev's SyntaxHighlighter</description>
+	<updatefrom>http://www.memht.com</updatefrom>
+
+	<author>
+		<name>Miltenovikj Manojlo</name>
+		<email>dev@miltenovik.com</email>
+		<url>http://www.memht.com</url>
+		<copyright>Copyright (C) 2008-2012 Miltenovikj Manojlo</copyright>
+		<license>GNU/GPLv2 http://www.gnu.org/licenses/</license>
+	</author>
+</extension>

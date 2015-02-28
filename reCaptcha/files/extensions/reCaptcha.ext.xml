@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension>
+	<title>reCaptcha</title>
+	<hook>Captcha</hook>
+	<filename>reCaptcha</filename>
+	<version>1.0</version>
+	<description>reCaptcha extension</description>
+	<updatefrom>http://www.memht.com</updatefrom>
+
+	<author>
+		<name>Miltenovikj Manojlo</name>
+		<email>dev@miltenovik.com</email>
+		<url>http://www.memht.com</url>
+		<copyright>Copyright (C) 2008-2011 Miltenovikj Manojlo</copyright>
+		<license>GNU/GPLv2 http://www.gnu.org/licenses/</license>
+	</author>
+</extension>
